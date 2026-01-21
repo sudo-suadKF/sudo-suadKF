@@ -8,7 +8,7 @@
 
 <!-- Add your profile image here -->
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" width="180" alt="Profile image" />
+  <img src="readme-pic.jpg" width="180" alt="Profile image" />
 </p>
 
 <p align="center">
