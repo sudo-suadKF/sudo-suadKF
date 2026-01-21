@@ -30,7 +30,7 @@ I enjoy:
 
 **Fun fact:**  
 My nickname is **sudo**, not because I overuse it, but because I actually got it from my uncle.  
-**Sudo** is a popular nickname to Suad in Bosnia😄
+**Sudo** is a popular nickname for the name Suad in Bosnia😄
 
 ---
 
