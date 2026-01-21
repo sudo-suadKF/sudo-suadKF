@@ -35,16 +35,16 @@ My nickname is **sudo**, not because I overuse it, but because I actually got it
 ---
 
 #### Recent Project
-- [**SentinelStack Gatus — Production-Grade Monitoring on AWS**](https://github.com/sudo-suadKF/SentinelStack-Gatus)
+- [**SentinelStack Gatus - Production-Grade Monitoring on AWS**](https://github.com/sudo-suadKF/SentinelStack-Gatus)
 
 ---
 
 #### Featured Projects
 
-- [**SentinelStack Gatus — Production-Grade Monitoring on AWS**](https://github.com/sudo-suadKF/SentinelStack-Gatus)  
+- [**SentinelStack Gatus - Production-Grade Monitoring on AWS**](https://github.com/sudo-suadKF/SentinelStack-Gatus)  
   Production-grade container platform built with **ECS Fargate, Terraform, and GitHub Actions**. Implements private networking, OIDC-based CI/CD, image scanning, and least-privilege IAM.
 
-- [**CloudPress HA — Multi-AZ WordPress Infrastructure on AWS (Terraform)**](https://github.com/sudo-suadKF/CloudPress-HA)  
+- [**CloudPress HA - Multi-AZ WordPress Infrastructure on AWS (Terraform)**](https://github.com/sudo-suadKF/CloudPress-HA)  
   Highly available WordPress architecture using **ALB, Docker, EC2, RDS, and Terraform**. Designed with strong security, private networking, and production-style best practices.
 
 ---
