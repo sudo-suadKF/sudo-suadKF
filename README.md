@@ -29,17 +29,21 @@ I enjoy:
 - building systems that are easy to understand, scale, and maintain
 
 **Fun fact:**  
-My nickname is **sudo**, not because I overuse it, but because I actually got it from my uncle.  
+My nickname is **Sudo**, not because I overuse it, but because I actually got it from my uncle.  
 **Sudo** is a popular nickname for the name Suad in Bosnia😄
 
 ---
 
 #### Recent Project
-- [**SentinelStack Gatus - Production-Grade Monitoring on AWS**](https://github.com/sudo-suadKF/SentinelStack-Gatus)
+- [**KubeMemos - Production-Grade Memos on AWS EKS**](https://github.com/sudo-suadKF/KubeMemos-EKS)
 
 ---
 
 #### Featured Projects
+
+- [**KubeMemos - Production-Grade Memos on AWS EKS**](https://github.com/sudo-suadKF/KubeMemos-EKS)
+  Production-grade K8s platform for running Memos on **Amazon EKS** using **Terraform, Helm, Argo CD, and GitHub Actions**. Features GitOps, automated secret management and rotation, observability, and security-first CI/CD with infrastructure validation and cost analysis.
+
 
 - [**SentinelStack Gatus - Production-Grade Monitoring on AWS**](https://github.com/sudo-suadKF/SentinelStack-Gatus)  
   Production-grade container platform built with **ECS Fargate, Terraform, and GitHub Actions**. Implements private networking, OIDC-based CI/CD, image scanning, and least-privilege IAM.
